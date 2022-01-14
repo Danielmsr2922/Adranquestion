@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient( to right, #8568F7, #69E0CF);
+
+
+}
+.capa{
+    width: 900px;
+    height: auto;
+}
+.paginas{
+    width: 900px;
+    height: auto;
+}
+.seta1{
+    font-size: 50px;
+}
+.content{
+    background-color: white;
+    left: 30%;
+    position: absolute;
+    text-align: center;
+    padding: 20px;
+    top: 40px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.445);
+}
+.form{
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.541);
+
+}
+.buttonstyle{
+    border-color: rgb(96, 96, 255);
+    border-radius: 10px;
+    transition-duration: 0.4s ;
+
+}
+.buttonstyle:hover{
+
+    border-color: rgb(255, 108, 108);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.363);
+}
