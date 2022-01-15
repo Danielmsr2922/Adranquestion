@@ -65,7 +65,7 @@ function loginuser(){
     
     else{
         document.getElementById("withoutpassword").innerHTML = "";
-        document.getElementById("withoutname").innerHTML = 'Veja bem' ;
+        document.getElementById("withoutname").innerHTML = 'Wrong UserName' ;
         return;
     }
     
